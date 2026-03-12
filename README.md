@@ -7,7 +7,6 @@ Me chamo Ryan Alves, tenho 22 anos e sou natural de Campina Grande-PB. Conclui o
 - :1st_place_medal: Medalha de Ouro na FEBRACE 2018.
 - ✨ Business English-B2
 ##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ##
