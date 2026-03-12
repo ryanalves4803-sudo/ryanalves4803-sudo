@@ -18,7 +18,7 @@ Me chamo Ryan Alves, tenho 22 anos e sou natural de Campina Grande-PB. Conclui o
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img align="right"  height="180" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThzMW9zdWVqaWRuNjNvenBrbmFiN3AwdWM1cW45MGI5OTU5dXB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
+  <img align="right"  height="160" width="160" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThzMW9zdWVqaWRuNjNvenBrbmFiN3AwdWM1cW45MGI5OTU5dXB4bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"/>
   </div>
   
   ##
