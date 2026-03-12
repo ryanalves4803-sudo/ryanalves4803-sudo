@@ -4,7 +4,7 @@ Me chamo Ryan Alves, tenho 22 anos e sou natural de Campina Grande-PB. Conclui o
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas; 
 - 🤓 Estudo aprofundado e certificações em Dev Web Front-end; 
 - 😎 Scrum Master Certified;
-- :1st_place_medal: Medalha de Ouro na FEBRACE 2018;
+- :1st_place_medal: Golden Medal-FEBRACE 2018;
 - ✨ Business English-B2.
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
