@@ -1,11 +1,11 @@
 ## 👨‍💻 Im Ryan Alves, welcome to my profile!
 
-Me chamo Ryan Alves, tenho 22 anos e sou natural de Campina Grande-PB. Conclui o ensiono médio na Escola SESI, com formação em iniciação científica e estudos em robótica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Mauricio de Nassau. Sou apaixonado por tecnologia, especialmente pelas áreas de desenvolvimento Web/Mobile Front-end, UI/UX e Inteligencia Artificial.   
+Me chamo Ryan Alves, tenho 22 anos e sou natural de Campina Grande-PB. Conclui o ensino médio na Escola SESI, com certificação em Iniciação Científica e estudos na área de Robótica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Maurício de Nassau. Sou apaixonado por tecnologia, especialmente pelas áreas de Desenvolvimento Web/Mobile Front-end, UI/UX e Inteligencia Artificial.   
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas; 
 - 🤓 Estudo aprofundado e certificações em Dev Web Front-end; 
 - 😎 Scrum Master Certified;
-- :1st_place_medal: Medalha de Ouro na FEBRACE 2018.
-- ✨ Business English-B2
+- :1st_place_medal: Medalha de Ouro na FEBRACE 2018;
+- ✨ Business English-B2.
 ##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
