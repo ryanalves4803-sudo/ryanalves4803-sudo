@@ -1,4 +1,4 @@
-## 👨‍💻 Im Ryan Alves, welcomo to my profile!
+## 👨‍💻 Im Ryan Alves, welcome to my profile!
 
 Me chamo Ryan Alves, tenho 22 anos e sou natural de Campina Grande-PB. Conclui o ensiono médio na Escola SESI, com formação em iniciação científica e estudos em robótica. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Mauricio de Nassau. Sou apaixonado por tecnologia, especialmente pelas áreas de desenvolvimento Web/Mobile Front-end, UI/UX e Inteligencia Artificial.   
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas; 
